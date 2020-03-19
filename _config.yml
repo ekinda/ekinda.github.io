@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: Ekin Deniz Aksu # your site title
 author: ekinda # You :P
-description: "My blog"
+description: > My blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ekinda.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
