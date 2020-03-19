@@ -2,12 +2,12 @@ title: Ekin Deniz Aksu
 author: ekinda
 email: aksuekin@gmail.com
 description: "My blog"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "ekinda.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ekinda
 #github_username:  jekyll
 
-theme: jekyll-sleek
+remote_theme: janczizikow/sleek
 plugins:
   - jekyll-feed
   - jekyll-sitemap
