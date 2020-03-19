@@ -1,8 +1,0 @@
----
-layout: post
-title: "Test post"
-date: 2020-03-19 14:46:00 +300
-categories: blog post
----
-
-Hey. This is my first test post. I created a new markdown file and used "front matter" to set the layout, title, date and the category. Enjoy.
