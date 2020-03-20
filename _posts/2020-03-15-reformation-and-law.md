@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effects of the Protestant Reformation on Law
-date: 2018-03-20 09:05:00 +3000
+date: 2020-03-15
 categories:
 - History
 #feature_image: "https://picsum.photos/2560/600?image=872"
@@ -11,9 +11,9 @@ categories:
 
 ## Question
 
-[r/AskHistorians link:](https://www.reddit.com/r/AskHistorians/comments/64fuhw/the_interaction_between_protestantism_and_law/)
+[r/AskHistorians link](https://www.reddit.com/r/AskHistorians/comments/64fuhw/the_interaction_between_protestantism_and_law/)
 
-I'm a flaired user in r/AskHistorians and I am trying to answer questions on early modern European history whenever I have the time. If you find any mistakes, send a message!
+I'm a flaired user in r/AskHistorians and I am trying to answer questions on early modern European history whenever I have the time. If you find any mistakes, send a message! [Here is my AH profile page.](https://www.reddit.com/r/AskHistorians/wiki/profiles/ekinda)
 
 A user asked this question:
 
