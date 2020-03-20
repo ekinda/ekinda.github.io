@@ -1,5 +1,8 @@
 ---
-layout: post
+layout: page
+title: CV
 ---
 
-This is my CV.
+---
+
+[Download link](aksu_cv.pdf)

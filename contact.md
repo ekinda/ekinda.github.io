@@ -1,6 +1,10 @@
 ---
-layout: post
+layout: page
 title: Contact
 ---
 
-Here is my contact information.
+---
+
+**Mail:** <aksuekin@gmail.com>
+
+**Twitter:** <https://twitter.com/ekinda>

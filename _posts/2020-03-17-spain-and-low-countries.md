@@ -33,7 +33,7 @@ Spain = Even though the Kingdom of Spain didn’t officially exist as a politica
 
 ## Burgundian Expansion
 
-During the middle ages, the House of Valois-Burgundy came to rule the Duchy of Burgundy in France. Then, from 1384 onwards, the Dukes of Burgundy started to acquire territory in the Low Countries through marriage, war and purchase. [map](https://i.pinimg.com/originals/6a/56/a7/6a56a7af963d143361ea14b540981f55.jpg) Since it would be tedious to list all these acquisitions one by one, you can check them out in [this nice wiki page](https://en.wikipedia.org/wiki/Burgundian_inheritance_in_the_Low_Countries).
+During the middle ages, the House of Valois-Burgundy came to rule the Duchy of Burgundy in France. Then, from 1384 onwards, the Dukes of Burgundy started to acquire territory in the Low Countries through marriage, war and purchase. [[map]](https://i.pinimg.com/originals/6a/56/a7/6a56a7af963d143361ea14b540981f55.jpg) Since it would be tedious to list all these acquisitions one by one, you can check them out in [this nice wiki page](https://en.wikipedia.org/wiki/Burgundian_inheritance_in_the_Low_Countries).
 
 ## The Iberian Wedding
 
@@ -48,7 +48,7 @@ Isabella and Ferdinand had many children. Ferdinand was a masterful diplomat and
 
 ## The Burgundian Succession Crisis
 
-Remember the Dukes of Burgundy who obtained most of the Low Countries? Charles the Bold, the last Duke of Burgundy died abruptly at the Battle of Nancy while fighting Swiss mercenaries. His lands were left to his young daughter Mary. Louis XI, King of France seized the opportunity and annexed the French parts of the duchy [Israel, 27-28]. In response, Mary married Archduke Maximilian of Habsburg (future HRE) in order to protect the remaining lands from French aggression [Israel, 29]. (Louis also proposed a marriage, but his harsh conditions and recent aggression made one difficult to obtain.) As a result, the Burgundian lands are effectively partitioned between France and the Habsburgs. [map](http://www.freiburg-madison.de/freiburg_history/images/1386-1517_The_Early_Habsburgs/Burgund_w.jpg)
+Remember the Dukes of Burgundy who obtained most of the Low Countries? Charles the Bold, the last Duke of Burgundy died abruptly at the Battle of Nancy while fighting Swiss mercenaries. His lands were left to his young daughter Mary. Louis XI, King of France seized the opportunity and annexed the French parts of the duchy [Israel, 27-28]. In response, Mary married Archduke Maximilian of Habsburg (future HRE) in order to protect the remaining lands from French aggression [Israel, 29]. (Louis also proposed a marriage, but his harsh conditions and recent aggression made one difficult to obtain.) As a result, the Burgundian lands are effectively partitioned between France and the Habsburgs. [[map]](http://www.freiburg-madison.de/freiburg_history/images/1386-1517_The_Early_Habsburgs/Burgund_w.jpg)
 
 Now remember Joanna the Mad who married Philip of Habsburg? Philip is the son of Mary and Maximilian.
 
@@ -70,7 +70,7 @@ Thus, Spain gained the Low Countries.
 
 ## The Dutch Revolt and the Eighty Years' War
 
-The Low Countries were a problematic region for Spain. They had strong local traditions (especially the northern parts), had a vocal Protestant minority, and they were heavily taxed. These factors contributed to widespread revolts. Allow me to quote myself from an [older thread](https://www.reddit.com/r/AskHistorians/comments/6aq6j4/what_was_the_religious_composition_of_the_dutch/dovz6fg/):
+The Low Countries were a problematic region for Spain. They had strong local traditions (especially the northern parts), had a vocal Protestant minority, and they were heavily taxed. These factors contributed to widespread revolts. Allow me to quote myself from an [older thread](https://ekinda.github.io/2020-03-16/religious-composition-dutch-republic):
 
 > In 1566 popular iconoclastic uprisings called Beeldenstorm started in Steenvoorde in Flanders. With considerable speed it reached north of the rivers within the same year, and as a reaction the Duke of Alba was sent from Spain to the Spanish Netherlands to get the rebels in line. The harsh, repressive policies of Alba failed and started a gradually increasing split between Spain and the rebels. In 1572 the Watergeuzen captured the town of Brielle and the fires of revolt rekindled. Many revolts fired in other cities, some spontaneous and some Geuzen-led. [Israel, 170]
 
@@ -100,7 +100,7 @@ In 1815 at the Congress of Vienna, the Austrian Netherlands were given to the Du
 
 ### Appendix B
 
-Since you wondered how Spain transported armies to the Low Countries, I want to tell you about the Spanish Road. Remember that Spain held territories in Milan and Franche-Comté. Basically, they went by sea to Genoa (Which were allies. On a side note, Spain depended on Genoese bankers a lot during this period.) and then by land to the Low Countries via Milan, Franche-Comté and allied/neutral HRE territory. [map]
+Since you wondered how Spain transported armies to the Low Countries, I want to tell you about the Spanish Road. Remember that Spain held territories in Milan and Franche-Comté. Basically, they went by sea to Genoa (Which were allies. On a side note, Spain depended on Genoese bankers a lot during this period.) and then by land to the Low Countries via Milan, Franche-Comté and allied/neutral HRE territory. [[map]](https://upload.wikimedia.org/wikipedia/commons/a/a6/El_Camino_Español.PNG)
 
 ## Sources and Further Reading
 
