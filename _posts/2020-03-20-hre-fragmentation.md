@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why did the Holy Roman Empire stay decentralized?
-date: 2020-03-20
+date: 2020-03-20 10:00:00 +3000
 categories:
 - History
 #feature_image: "https://picsum.photos/2560/600?image=872"

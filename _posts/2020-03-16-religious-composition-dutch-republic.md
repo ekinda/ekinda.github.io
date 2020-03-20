@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Religious Composition of the Dutch Republic
-date: 2020-03-16
+date: 2020-03-16 10:00:00 +3000
 categories:
 - History
 feature_image: "https://picsum.photos/2560/600?image=872"

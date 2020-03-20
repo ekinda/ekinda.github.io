@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effects of the Protestant Reformation on Law
-date: 2020-03-15
+date: 2020-03-15 10:00:00 +3000
 categories:
 - History
 #feature_image: "https://picsum.photos/2560/600?image=872"

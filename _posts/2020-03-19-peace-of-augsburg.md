@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Was the Peace of Augsburg really unsuccessful?
-date: 2020-03-19
+date: 2020-03-19 10:00:00 +3000
 categories:
 - History
 #feature_image: "https://picsum.photos/2560/600?image=872"

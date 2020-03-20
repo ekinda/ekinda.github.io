@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internationalization of the Thirty Years' War
-date: 2020-03-18
+date: 2020-03-18 10:00:00 +3000
 categories:
 - History
 #feature_image: "https://picsum.photos/2560/600?image=872"

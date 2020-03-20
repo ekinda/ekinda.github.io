@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How did Spain conquer Netherlands and Belgium?
-date: 2020-03-17
+date: 2020-03-17 10:00:00 +3000
 categories:
 - History
 feature_image: "https://picsum.photos/2560/600?image=872"
