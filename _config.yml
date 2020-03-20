@@ -1,0 +1,17 @@
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+title: Ekin Deniz Aksu
+description: "My blog"
+baseurl: ""
+url: "https:ekinda.github.io"
+
+author:
+  name: Ekin Deniz Aksu
+  email: aksuekin@gmail.com
