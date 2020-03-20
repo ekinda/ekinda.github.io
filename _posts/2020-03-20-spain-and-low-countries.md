@@ -7,7 +7,7 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-*I shit on the law of the pope and of the emperor, and on the law of the jurists as well. - Martin Luther*
+*On these two points, on no account are you to give in or shift an inch. -Philip II of Spain*
 
 # Question
 
