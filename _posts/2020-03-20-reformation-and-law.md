@@ -7,21 +7,19 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-# Question
-
-r/AskHistorians link: https://www.reddit.com/r/AskHistorians/comments/64fuhw/the_interaction_between_protestantism_and_law/
-
-The question and my answer were posted on r/AskHistorians two years ago. If you find any mistakes, send a message!
-
-> As all we know the protestant reformation had huge impacts on theological perspective and structure of states. But I wonder about something. Did anything changed in legal system and philosophy with protestant reformation?
-
-# TL;DR
-
 > I shit on the law of the pope and of the emperor, and on the law of the jurists as well. - Martin Luther
 
 In short, the Reformation contested the authority of the Church to promulgate laws, and instead placed it in the hands of secular princes and university trained judges. But to call it secularization is inaccurate, for the Lutheran law was based on the Bible.
 
 This is a complex subject, and I will try to explain it clearly and in detail. To understand everything properly, we need to go back to the development of the Roman Catholic legal tradition.
+
+# Question
+
+r/AskHistorians link: https://www.reddit.com/r/AskHistorians/comments/64fuhw/the_interaction_between_protestantism_and_law/
+
+The following question and my answer were posted on r/AskHistorians two years ago. If you find any mistakes, send a message!
+
+> As all we know the protestant reformation had huge impacts on theological perspective and structure of states. But I wonder about something. Did anything changed in legal system and philosophy with protestant reformation?
 
 # The Two Swords Theory
 
