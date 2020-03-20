@@ -9,21 +9,23 @@ categories:
 
 *I shit on the law of the pope and of the emperor, and on the law of the jurists as well. - Martin Luther*
 
-# Question
+## Question
 
-r/AskHistorians link: https://www.reddit.com/r/AskHistorians/comments/64fuhw/the_interaction_between_protestantism_and_law/
+[r/AskHistorians link:](https://www.reddit.com/r/AskHistorians/comments/64fuhw/the_interaction_between_protestantism_and_law/)
 
-The following question and my answer were posted on r/AskHistorians two years ago. If you find any mistakes, send a message!
+I'm a flaired user in r/AskHistorians and I am trying to answer questions on early modern European history whenever I have the time. If you find any mistakes, send a message!
+
+A user asked this question:
 
 > As all we know the protestant reformation had huge impacts on theological perspective and structure of states. But I wonder about something. Did anything changed in legal system and philosophy with protestant reformation?
 
-# Summary
+## Summary
 
 In short, the Reformation contested the authority of the Church to promulgate laws, and instead placed it in the hands of secular princes and university trained judges. But to call it secularization is inaccurate, for the Lutheran law was based on the Bible.
 
 This is a complex subject, and I will try to explain it clearly and in detail. To understand everything properly, we need to go back to the development of the Roman Catholic legal tradition.
 
-# The Two Swords Theory
+## The Two Swords Theory
 
 The “two swords” idea dates back to Pope Gelasius I of the late 5th century. In his letter to the Eastern Roman Emperor Anastasius I, he wrote that there are two main powers that rule the world, the church and the kings/princes, and the authority of the Church was superior than of the kings. Let’s read an excerpt from the letter:
 
@@ -35,7 +37,7 @@ In the 11th century, the reformer Pope Gregory VII wrote Dictatus Papae, which c
 
 which continued the tradition set by Gelasius that the religious authorities were superior to secular authorities. Gregory and his successor Pope Boniface VIII (see Unam Sanctam) expanded on Gelasius and defined the relationship between the Church and the kings in a more precise way. Here is where the two swords came into play. The spiritual sword was the Church, and through papal decrees and conciliar decisions, it had the law making power over the spiritual matters of Christendom. The temporal sword was the secular authorities such as kings, princes, cities etc. whose duty were to protect the Church, to maintain peace and to handle secular affairs within their territories. The laws set forth by the Church guided the temporal sword and society towards salvation, i.e. avoiding sinning and living a good Catholic life. Note that in the Roman Catholic doctrine, the idea of salvation through works was present, people had to do good deeds -including donating money to the church or purchasing indulgences from the Pope- in order to be saved from their sins. [3]
 
-# The Two Kingdoms Theory of Luther
+## The Two Kingdoms Theory of Luther
 
 A very important point needs to be made: Contrary to popular belief, in 1517 Martin Luther not only denounced papal indulgences but more importantly he rejected the law-making power of the Roman Catholic Church as a whole. The argument was that no one could mediate between God and the believer, and salvation was through one’s own faith alone (sola fide). Therefore the Church did not have the authority to promulgate laws regarding sin and salvation, it was merely a community of believers who responded directly to God. Luther wrote in 1520:
 
@@ -47,7 +49,7 @@ Luther rejected the two swords theory and came up with his own “two kingdoms�
 
 So we must concede that the Lutheran Reformation did not yield an immediate secularization of the law, for the laws are derived from the Gospel in either case. The main difference is, in Catholics the Church sets forth the laws that guide the princes, while in the Lutheran view the ruler sets the law with respect to his subjects’ well being and also the divine law set by the Scripture.
 
-# Changes in the legal system
+## Changes in the legal system
 
 Since Medieval times, there had been a strong hierarchy of laws in the Christian legal tradition. In 1140, Decretum stated this as divine law, natural law and finally human law. Before the Reformation, human law was a mix of papal decrees, Church council decisions, some Roman law and also some legal books such as Decretum. The former two were collectively called jus canonicum (canonical law), which was used in the ecclesiastical courts, and all four combined yielded the common law, or jus commune. This was used in secular courts in Germany, which consisted of multiple Schöffen (lay judge) who passed the judgement and a Richter (director) who directed the sessions. [3]
 
@@ -65,11 +67,11 @@ To conclude, I am adding this quote from John Witte Jr which gives some examples
 
 > A good deal of our modern Western law of marriage, education, and social welfare, for example, still bears the unmistakable marks of Lutheran Reformation theology. Today, in most Western legal systems, marriage is still viewed as both a civil and a spiritual institution, whose formation and dissolution require special legal procedures. Parents must still consent to the marriages of their minor children. Peers must still attest to the veracity of the marital oath. Pastors or political officials must still confirm the marital union, if not consecrate it. Divorce and annulment still require a special public proceeding before a tribunal, with proof of support for dependent spouses and children.[5]
 
-# Further Reading
+## Further Reading
 
 I paraphrased a lot from Harold J Berman’s wonderful article, “Conscience and Law: The Lutheran Reformation and the Western Legal Tradition”. If you want a more detailed overview, I suggest you read this. It’s only around 20 pages. For even more detail, you can look at Berman’s or John Witte Jr’s books on the subject.
 
-# Sources
+## Sources
 
 - [1] Page 72 from James Harvey Robinson, Readings in European History. Wildside Press LLC. 1904.
 - [2] Pages 366-367 from Ernest F. Henderson, Select Historical Documents of the Middle Ages. 1903.
