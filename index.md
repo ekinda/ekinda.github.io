@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home_page
 title: Ekin Deniz Aksu
 ---
 
