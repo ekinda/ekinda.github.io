@@ -12,7 +12,7 @@ categories:
 | *Haritanın şu anki hali. Geriye sadece ülke isimlerini tamamlamak ve lejantı oluşturmak kaldı.* |
 
 <br/><br/>
-Küçüklüğümden beri haritaları çok seviyorum. Sanırım bu oynaığım streteji oyunlarından kaynaklanıyor, en çok da Total War ve Europa Universalis. İki sene önce eski bir Avrupa haritası bastırıp eve asmak istiyordum. Boyut olarak bir-bir buçuk metre falan. Duvarda büyük bir harita hem çok güzel görünür, hem de tarih okurken arada göz atmak faydalı olur diye düşündüm. Neyse, internette yükek çözünürlüklü eski haritaları baya bir araştırdım. [David Rumsey'nin koleksiyonu](www.davidrumsey.com/luna/servlet/view/all) bu iş için birebir. Buradaki haritalar arasından bir tanesini seçtim, bastırdım ve masamın önündeki duvara astım.
+Küçüklüğümden beri haritaları çok seviyorum. Sanırım bu oynaığım streteji oyunlarından kaynaklanıyor, en çok da Total War ve Europa Universalis. İki sene önce eski bir Avrupa haritası bastırıp eve asmak istiyordum. Boyut olarak bir-bir buçuk metre falan. Duvarda büyük bir harita hem çok güzel görünür, hem de tarih okurken arada göz atmak faydalı olur diye düşündüm. Neyse, internette yükek çözünürlüklü eski haritaları baya bir araştırdım. [David Rumsey'nin koleksiyonu](https://www.davidrumsey.com/luna/servlet/view/all) bu iş için birebir. Buradaki haritalar arasından bir tanesini seçtim, bastırdım ve masamın önündeki duvara astım.
 
 ![old_map.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/old_map.jpg)
 
