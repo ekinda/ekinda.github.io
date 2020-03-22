@@ -14,6 +14,9 @@ categories:
 <br/><br/>
 Küçüklüğümden beri haritaları çok seviyorum. Sanırım bu oynaığım streteji oyunlarından kaynaklanıyor, en çok da Total War ve Europa Universalis. İki sene önce eski bir Avrupa haritası bastırıp eve asmak istiyordum. Boyut olarak bir-bir buçuk metre falan. Duvarda büyük bir harita hem çok güzel görünür, hem de tarih okurken arada göz atmak faydalı olur diye düşündüm. Neyse, internette yükek çözünürlüklü eski haritaları baya bir araştırdım. [David Rumsey'nin koleksiyonu](www.davidrumsey.com/luna/servlet/view/all) bu iş için birebir. Buradaki haritalar arasından bir tanesini seçtim, bastırdım ve masamın önündeki duvara astım.
 
+![old_map.png](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/old_map.PNG)
+
+<br/><br/>
 Gayet güzel oldu. Ancak birkaç sorun var. Ben aslında 16. yy haritası bastırmak istiyordum, ama Yunanistan'daki sınırlara bakarsak bu harita yaklaşık 1830'ları gösteriyor olmalı. Bir de Anadolu, Levant ve Kuzey Afrika da haritaya dahil olsun istiyorum. Ama maalesef ne David Rumsey'de, ne de başka bir yerde hem güzel görünen, hem de çözünürlüğü bastırmaya uygun bir 16. yy haritası yok!
 
 Ben de kendi haritamı kendim yapmaya karar verdim. Böylece hem haritanın yılını, hem de hangi alanı göstereceğini tam istediğim şekilde seçebilirim. Aynı zamanda vektörel çizimle istediğim boyutta kalite kaybı olmadan bastırabilirim. Biraz araştırdım ve Illustrator'da tarihsel harita çizimini çok güzel anlatan [bir video](https://www.youtube.com/watch?v=QkjH51zLtbE) buldum.
