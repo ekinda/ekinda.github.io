@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pizza
+title: Pratik Pizza Tarifi 
 date: 2020-06-25 08:00:00 +3000
 categories:
 - Cooking
