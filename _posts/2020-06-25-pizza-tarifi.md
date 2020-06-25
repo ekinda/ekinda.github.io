@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pratik Pizza Tarifi 
+title: Pratik Pizza Tarifi
 date: 2020-06-25 08:00:00 +3000
 categories:
 - Cooking
@@ -8,18 +8,17 @@ categories:
 
 ![pizza_1.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_1.jpg)
 
-Geçen yaptığım bir pizza tarifini paylaşmak istiyorum. Bir iki nokta dışında çok bir orijinalliği yok, ben de oradan burdan buldum. Ama pratik olması ve Türkiye'de kolay erişilebilen malzemelerle yapılması açısından bence çok iyi bir tarif oldu.
+Geçen yaptığım bir pizza tarifini paylaşmak istiyorum. Bir iki nokta dışında çok bir orijinalliği olmasa da, pratik olması ve Türkiye'de kolay erişilebilen malzemelerle yapılması açısından bence çok iyi bir tarif oldu.
 
-Kaşarla gayet güzel oluyor, mozarelleya çok para vermenin bir anlamı yok bence. Mozarellamsı peynir topçukları çok kalitesiz, hiç denemeyin.
+Öncelikle kaşarla gayet güzel oluyor, mozarelleya çok para vermenin bir anlamı yok bence. Mozarellamsı peynir topçukları çok kalitesiz, hiç denemeyin.
 
-Domates sosu için de Tat'ın hazır domates püresi var 200 g'lık, ucuz ve pratik. Taze fesleğen bulmak Türkiye'de biraz zor, hazır pesto sosu çok iyi oldu onun yerine.
+Domates sosu için de Tat'ın hazır domates püresi var 200 g'lık, ucuz ve pratik. Taze fesleğen bulmak Türkiye'de biraz zor, onun yerine hazır pesto sosu kullandım, sosa güzel bir aroma ve yoğunluk kattı.
 
 Hamur tarifinin aslı da [burda](https://www.bbcgoodfood.com/recipes/pizza-margherita-4-easy-steps).
 
 ## Malzemeler
 
 3 orta boy pizza için. 2-3 kişilik. 1-1 buçuk saatte yapılıyor (ekstra malzemelere bağlı).
-* Opsiyonel malzeme
 
 Hamur
 
@@ -84,5 +83,4 @@ Açma, birleştirme ve pişirme
 
 ![pizza_servis.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_servis.jpg)
 
-| ![pizza_4.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_4.jpg) | ![pizza_3.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_3.jpg) |
-|:--:|:--:|
+![pizza_4.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_4.jpg) ![pizza_3.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_3.jpg)
