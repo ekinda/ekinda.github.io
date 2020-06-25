@@ -82,5 +82,6 @@ Açma, birleştirme ve pişirme
 - Ekstra malzeme olarak siyah zeytin + karamelize soğan + sarı/kırmızı biber yakıştı. Etli denemedim ama koyacaksanız sucuk yerine jambon tavsiye ederim, sucuk pizza tadını bastırıyor.
 
 ![pizza_servis.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_servis.jpg)
-
+| Soğan, biber ve zeytinli | Brokoli ve karnabaharlı |
+|:--:|:--:|
 ![pizza_4.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_4.jpg) ![pizza_3.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_3.jpg)
