@@ -7,10 +7,6 @@ categories:
 - Books
 ---
 
-<p style="text-align: center;">
-*Yazan: Ekin Deniz Aksu*
-</p>
-
 *Bunu Herkes Bilir*'de Emrah Safa Gürkan erken modern dönem Osmanlı ve Avrupa tarihinden seçtiği bazı konuları incelemiş. Bu konuları Türkiye'de sıklıkla yanlış bilinen ve yüzeysel açıklamalarla geçiştirilen konulardan seçmiş: Osmanlı'nın neden çöktüğü, neden Amerika'ya gitmediği, Viyana'yı alsaydı ne olacağı gibi. İlk üç bölüm dışında bölümlerin arasında bir ilişki bulunmuyor, bunlar istenilen sırayla okunabilir. Bir de kitap giriş kısmında yazarın belirttiği üzere akademik bir kitap değil ve beyaz yakalılar için yazılmış. Gürkan'ın bu kitaptaki amacı, kendi deyimiyle "okuyucuya entelektüel bir derinlik kazandırmak ve yaşadığı çağı daha iyi yorumlama yetisini edinmesiyle kaliteli bir yaşam sürmesini sağlamak". İlk bakışta fazla iddialı görünen bu amaca kitap kısmen ulaşabiliyor.
 
 Önce olumlu yönlerden başlayalım. Kitapta kesinlikle en çok beğendiğim şey, yazarın teorileri "doğru" veya "yanlış" olarak sınıflandırmak yerine farklı teorilerden bahsedip "bu tarihsel gerçeği açıklarken kullanılabilir" demesi. Teorileri sorgulamadan, bağlamından kopararak ve genelleştirerek kabul etmek çok sık yapılan bir hata. Bir konuda bir iki kitap okuyan, derinlikli bir analiz veya karşıt görüş okumamış insanlar ilk okudukları yazarın söylediklerine sıkı sıkıya tutunup ateşli biçimde bu teorileri savunabiliyor. Halbuki teoriler varsayımlarına dikkat edip, eğer uygulanabiliyorsa bazı tarihsel soruları açıklarken kullanacağımız **araçlar**. Bu yanlış algıyı ülkemizde sadece tarihte değil, diğer bilimlere olan bakışta da görüyoruz. Keşke yazar bunu daha sık vurgulasaydı.
@@ -38,3 +34,7 @@ Kaynakça geniş olmasına geniş, ancak hiç kullanışlı değil. Özellikle d
 ## Sonuç
 
 Gürkan'ın olaylar ve kişiler yerine tarihsel yapılar, süreklilikler vurgusu çok yerinde, ve okuyucunun tarihi yorumlama becerisine katkı sağlayacak bir şey. Osmanlı ve Avrupa arasında açılan ekonomik ve teknolojik makasın sebeplerinin anlatıldığı ilk üç bölüm hiç fena değil. Beş ve altıncı bölümlerde yüzeysel açıklamalarla kalite düşüyor, ve son birkaç bölüm de yer doldurmak için seçilmiş gibi duruyor ve okura "entelektüel derinlik" katmıyor. Kapak tasarımı ve yazım tarzı ile bir bestseller olmak için özenle hazırlanan bu kitap Türkiye'deki diğer popüler tarih kitaplarıyla kıyaslandığında daha kaliteli olsa da, çok daha iyi olabilirdi. Kitabın son cümlesinde geçen *médiocrité partout* deyimi maalesef bu kitap için de çoğunlukla geçerli.
+
+<p style="text-align: center;"> <i>
+Ekin Deniz Aksu
+</i></p>

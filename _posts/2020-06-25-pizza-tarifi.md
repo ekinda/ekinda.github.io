@@ -6,10 +6,6 @@ categories:
 - Cooking
 ---
 
-<p style="text-align: center;">
-*Yazan: Ekin Deniz Aksu*
-</p>
-
 ![pizza_1.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_1.jpg)
 
 Geçen yaptığım bir pizza tarifini paylaşmak istiyorum. Bir iki nokta dışında çok bir orijinalliği olmasa da, pratik olması ve Türkiye'de kolay erişilebilen malzemelerle yapılması açısından bence çok iyi bir tarif oldu.
@@ -90,3 +86,7 @@ Açma, birleştirme ve pişirme
 | Soğan, biber ve zeytinli | Brokoli ve karnabaharlı |
 |:--:|:--:|
 |![pizza_4.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_4.jpg) | ![pizza_3.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_3.jpg) |
+
+<p style="text-align: center;"> <i>
+Yazan: Ekin Deniz Aksu
+</i></p>

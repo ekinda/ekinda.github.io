@@ -7,10 +7,6 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-<p style="text-align: center;">
-*Yazan: Ekin Deniz Aksu*
-</p>
-
 *I shit on the law of the pope and of the emperor, and on the law of the jurists as well. - Martin Luther*
 
 ## Question
@@ -82,3 +78,7 @@ I paraphrased a lot from Harold J Berman’s wonderful article, “Conscience an
 - [3] Berman, Harold J. “Conscience and Law: The Lutheran Reformation and the Western Legal Tradition.” Journal of Law and Religion, vol. 5, no. 1, 1987, pp. 177–202. JSTOR
 - [4] Page 2 from John Witte, Jr. Law and Protestantism: The Legal Teachings of the Lutheran Reformation, Cambridge/New York: Cambridge University Press, 2002
 - [5] Page 295 from John Witte, Jr. Law and Protestantism: The Legal Teachings of the Lutheran Reformation, Cambridge/New York: Cambridge University Press, 2002
+
+<p style="text-align: center;"> <i>
+Ekin Deniz Aksu
+</i></p>

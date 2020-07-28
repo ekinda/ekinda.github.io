@@ -7,10 +7,6 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-<p style="text-align: center;">
-*Yazan: Ekin Deniz Aksu*
-</p>
-
 *On these two points, on no account are you to give in or shift an inch. -Philip II of Spain*
 
 ## Question
@@ -111,3 +107,7 @@ Since you wondered how Spain transported armies to the Low Countries, I want to 
 - Elliott, John Huxtable. Imperial Spain 1469-1716. Penguin UK, 2002.
 - Israel, Jonathan Irvine. The Dutch Republic: its rise, greatness and fall, 1477-1806. Clarendon Press, 1998.
 - Parker, Geoffrey. “Why Did the Dutch Revolt Last Eighty Years?” Transactions of the Royal Historical Society, vol. 26, 1976, pp. 53–72. JSTOR
+
+<p style="text-align: center;"> <i>
+Ekin Deniz Aksu
+</i></p>

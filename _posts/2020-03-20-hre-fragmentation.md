@@ -7,10 +7,6 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-<p style="text-align: center;">
-*Yazan: Ekin Deniz Aksu*
-</p>
-
 *The reformation began in the empire, and there it had a very strong decentralizing effect. The conversion of many princes to Lutheranism and Calvinism brought them in conflict with the Catholic emperor, and being weak on their own, the Protestant princes formed large networks of alliances -or leagues- against him, which often attracted foreign support.*
 
 ## Question
@@ -67,3 +63,7 @@ Normally I use page numbers with my sources as well, but this time I didn't have
 - Heart of Europe: A History of the Holy Roman Empire by Peter H. Wilson
 - The Thirty Years' War, edited by Geoffrey Parker
 - Europe: The Struggle for Supremacy by Brendan Simms
+
+<p style="text-align: center;"> <i>
+Ekin Deniz Aksu
+</i></p>

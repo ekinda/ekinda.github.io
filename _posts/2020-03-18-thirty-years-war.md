@@ -7,10 +7,6 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-<p style="text-align: center;">
-*Yazan: Ekin Deniz Aksu*
-</p>
-
 *With all the controversies and loose ends, the Peace of Augsburg wasn’t made to be a final, definitive peace deal. It was not unsuccessful, because it succeeded in preventing a major war in the Empire for 63 years, when other European countries were having confessional wars. It accomplished this by the intentional vagueness with which the text was written, which allowed both parties to interpret the text from their own point of view.*
 
 ## Question
@@ -85,3 +81,7 @@ Constitutionally, there are important changes. In 1645, during the Frankfurt pro
 - Wilson, Peter H. Europe's Tragedy: A New History of the Thirty Years War. Penguin UK, 2009.
 - Map, made by me. [Imgur link](https://i.imgur.com/wJZXeBE.jpg)
 - Karaman, K. Kivanç, and Şevket Pamuk. "Ottoman state finances in European perspective, 1500–1914." The Journal of Economic History 70.3 (2010): 593-629.
+
+<p style="text-align: center;"> <i>
+Ekin Deniz Aksu
+</i></p>

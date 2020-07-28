@@ -7,10 +7,6 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-<p style="text-align: center;">
-*Yazan: Ekin Deniz Aksu*
-</p>
-
 *With all the controversies and loose ends, the Peace of Augsburg wasn’t made to be a final, definitive peace deal. It was not unsuccessful, because it succeeded in preventing a major war in the Empire for 63 years, when other European countries were having confessional wars. It accomplished this by the intentional vagueness with which the text was written, which allowed both parties to interpret the text from their own point of view.*
 
 ## Question
@@ -173,3 +169,7 @@ For reading material, Chapter 2 of Europe's Tragedy by Peter Wilson is a very go
 7. Chapter 6. MacCulloch, Diarmaid. Reformation: Europe's house divided 1490-1700. Penguin UK, 2004.
 8. Pages 64-65 from Wilson, Peter H. Europe's Tragedy: A New History of the Thirty Years War. Penguin UK, 2009.
 9. Page 228 from Wilson, Peter H. Europe's Tragedy: A New History of the Thirty Years War. Penguin UK, 2009.
+
+<p style="text-align: center;"> <i>
+Ekin Deniz Aksu
+</i></p>
