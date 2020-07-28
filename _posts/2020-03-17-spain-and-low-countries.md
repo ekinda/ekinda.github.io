@@ -7,6 +7,10 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
+<p style="text-align: center;">
+*Yazan: Ekin Deniz Aksu*
+</p>
+
 *On these two points, on no account are you to give in or shift an inch. -Philip II of Spain*
 
 ## Question

@@ -7,6 +7,10 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
+<p style="text-align: center;">
+*Yazan: Ekin Deniz Aksu*
+</p>
+
 *I shit on the law of the pope and of the emperor, and on the law of the jurists as well. - Martin Luther*
 
 ## Question

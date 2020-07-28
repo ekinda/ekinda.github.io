@@ -6,6 +6,10 @@ categories:
 - Cooking
 ---
 
+<p style="text-align: center;">
+*Yazan: Ekin Deniz Aksu*
+</p>
+
 ![pizza_1.jpg](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/pizza_1.jpg)
 
 Geçen yaptığım bir pizza tarifini paylaşmak istiyorum. Bir iki nokta dışında çok bir orijinalliği olmasa da, pratik olması ve Türkiye'de kolay erişilebilen malzemelerle yapılması açısından bence çok iyi bir tarif oldu.

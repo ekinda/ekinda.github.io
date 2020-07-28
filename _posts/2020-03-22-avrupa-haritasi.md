@@ -7,6 +7,10 @@ categories:
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
+<p style="text-align: center;">
+*Yazan: Ekin Deniz Aksu*
+</p>
+
 | ![map_zoomed.png](https://raw.githubusercontent.com/ekinda/ekinda.github.io/master/photos/map_zoomed.PNG) |
 |:--:|
 | *Haritanın şu anki hali. Geriye sadece ülke isimlerini tamamlamak ve lejantı oluşturmak kaldı.* |

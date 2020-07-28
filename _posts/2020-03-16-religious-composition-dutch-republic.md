@@ -7,6 +7,11 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
+<p style="text-align: center;">
+*Yazan: Ekin Deniz Aksu*
+</p>
+
+
 > What was the religious composition of the Dutch Republic in 1581 at the time of the independence? I have not yet been able to figure out whether at the time of independence in the Seven Provinces there was a Protestant or Catholic majority of the population and how this composition varied during the Dutch Revolt.
 
 A user asked this question on r/Askhistorians. [Original link](https://www.reddit.com/r/AskHistorians/comments/6aq6j4/what_was_the_religious_composition_of_the_dutch/dovz6fg/)
